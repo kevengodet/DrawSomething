@@ -1,0 +1,14 @@
+{
+    "name": "adagio/draw-something",
+    "description": "DrawSomething API client",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Adagio\\DrawSomething": "src/"
+        }
+    }
+}
